@@ -157,12 +157,6 @@
   },
   {
     "ModuleName": "报表3",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "orrindeng",
-      "Email": "orrin.deng@grapecity.com"
-    },
-    "LockDateTime": "2021-03-19T14:08:32.6806055+08:00",
     "ModuleType": 17
   }
 ]
