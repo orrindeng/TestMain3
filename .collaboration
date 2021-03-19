@@ -160,27 +160,7 @@
     "ModuleType": 14
   },
   {
-    "ModuleName": "报表43",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "orrindeng",
-      "Email": "orrin.deng@grapecity.com"
-    },
-    "LockDateTime": "2021-03-19T16:00:15.0671554+08:00",
-    "ModuleType": 17,
-    "ToRemoveFiles": [
-      "Reports\\报表43.rdlx",
-      "Reports\\报表43.json"
-    ]
-  },
-  {
     "ModuleName": "报表4",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "orrindeng",
-      "Email": "orrin.deng@grapecity.com"
-    },
-    "LockDateTime": "2021-03-19T16:00:15.0671554+08:00",
     "ModuleType": 17
   }
 ]
