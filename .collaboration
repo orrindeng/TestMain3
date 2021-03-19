@@ -116,12 +116,20 @@
     "ModuleType": 16
   },
   {
-    "ModuleName": "报表1",
+    "ModuleName": "Reports\\文件夹1",
+    "ModuleType": 19
+  },
+  {
+    "ModuleName": "报表3",
     "ModuleType": 17
   },
   {
-    "ModuleName": "Reports\\文件夹1",
-    "ModuleType": 19
+    "ModuleName": "报表4",
+    "ModuleType": 17
+  },
+  {
+    "ModuleName": "报表1",
+    "ModuleType": 17
   },
   {
     "ModuleName": "报表2",
@@ -154,17 +162,5 @@
   {
     "ModuleName": "01725a5e-d06d-454e-ba18-6b6c0e11ece4",
     "ModuleType": 14
-  },
-  {
-    "ModuleName": "报表3",
-    "ModuleType": 17
-  },
-  {
-    "ModuleName": "报表4",
-    "ModuleType": 17
-  },
-  {
-    "ModuleName": "报表5",
-    "ModuleType": 17
   }
 ]
