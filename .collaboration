@@ -101,7 +101,16 @@
   },
   {
     "ModuleName": "页面1",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "orrindeng",
+      "Email": "orrin.deng@grapecity.com"
+    },
+    "LockDateTime": "2021-03-19T10:24:07.4968624+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\页面1.json"
+    ]
   },
   {
     "ModuleName": "FGC_母版页",
