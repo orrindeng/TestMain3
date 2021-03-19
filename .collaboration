@@ -116,12 +116,16 @@
     "ModuleType": 16
   },
   {
-    "ModuleName": "报表2",
+    "ModuleName": "Reports\\文件夹1",
+    "ModuleType": 19
+  },
+  {
+    "ModuleName": "报表1",
     "ModuleType": 17
   },
   {
-    "ModuleName": "Reports\\文件夹1",
-    "ModuleType": 19
+    "ModuleName": "报表2",
+    "ModuleType": 17
   },
   {
     "ModuleName": "报表3",
