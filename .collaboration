@@ -117,12 +117,12 @@
   },
   {
     "ModuleName": "报表1",
-    "State": 1,
+    "State": 4,
     "LockedBy": {
       "UserName": "orrindeng",
       "Email": "orrin.deng@grapecity.com"
     },
-    "LockDateTime": "2021-03-19T14:07:27.7693975+08:00",
+    "LockDateTime": "2021-03-19T14:07:37.0965847+08:00",
     "ModuleType": 17,
     "ToRemoveFiles": [
       "Reports\\报表1.rdlx",
