@@ -14,10 +14,10 @@
   </Colors>
   <Fonts>
     <MajorFont>
-      <Family>微软雅黑</Family>
+      <Family>Meiryo UI</Family>
     </MajorFont>
     <MinorFont>
-      <Family>微软雅黑</Family>
+      <Family>Meiryo UI</Family>
     </MinorFont>
   </Fonts>
   <Images />
